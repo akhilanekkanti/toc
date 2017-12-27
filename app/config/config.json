@@ -1,0 +1,17 @@
+{
+  "brandName": "Tower Management",
+  "app": {
+    "id": "qx0dbqvjwift",
+    "key": "faffb4e6ef2e4ef1befd76da74de64de",
+    "url": "//api-staging-saus.internal.kii.com/api"
+  },
+  "rules": {
+    "url": "https://test.kiibeta.com/kie-drools-wb",
+    "package": "multiassetmonitoring",
+    "repo": "MultiAssetMonitoring"
+  },
+  "serviceUrl": "https://test.kiibeta.com/tm-multireading-service/app/assetmonitoring",
+  "googleMapKey": "AIzaSyCx_ZaqWDu6leZ7ffeIz5sG9qrN5s4KFF0",
+  "debugEnabled": true,
+  "sessionLastsIn": 5
+}
